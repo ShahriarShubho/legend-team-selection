@@ -11,7 +11,7 @@ const SelectedClub = (props) => {
             <h3>Player Selected : {players.length}</h3>
             <h5>Total Budge : ${totalSalary}</h5> <br/>
             <h4>Selected Player List :</h4>
-            {players.map(showPlayer =><ShowSelectedPlayerData showPlayerData={showPlayer}></ShowSelectedPlayerData> )}
+            {players.map(showPlayer =><ShowSelectedPlayerData showPlayerData={showPlayer} key={showPlayer.id}></ShowSelectedPlayerData> )}
             
         </div>
     );

@@ -12,9 +12,9 @@ function App() {
   },[]);
 
   const [playerInfo, setPlayerInfo] = useState([]);
-  const handleSelectedClub = (player) =>{
+  const handleSelectedClub = (player) =>{   
     const newPlayerInfo = [...playerInfo, player];
-    setPlayerInfo(newPlayerInfo)
+    setPlayerInfo(newPlayerInfo)  
   }
 
   return (
