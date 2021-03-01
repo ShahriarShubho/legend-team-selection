@@ -1,6 +1,9 @@
 .player-container img{
-    width: 370px;
-    height: 350px;
+
+    width: 270px;
+    height: 250px;
+    border-radius:40px;
+    margin: auto;
 }
 .player-container{
     margin: 15px;
