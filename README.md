@@ -10,5 +10,5 @@ Legend team selection is team selection website. In this website first show play
 ##Technology: 
 **HTML5, CSS3, Bootstrap, React Bootstrap, Font Awesome, JavaScript, ReactJS**
 
-Here live site: [Dentist Care](https://legend-team-selection.netlify.app/) <br/>
+Here live site: [Legend Team Selection](https://legend-team-selection.netlify.app/) <br/>
 
